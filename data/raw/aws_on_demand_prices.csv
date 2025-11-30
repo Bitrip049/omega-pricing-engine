@@ -1,0 +1,152 @@
+provider,market_type,instance_type,location,location_type,region,gpu_count,price_per_hour_usd,unit,gpu_model,tflops_total,cost_per_tflop_hour_usd
+AWS,on-demand,p5.48xlarge,US East (N. Virginia),AWS Region,us-east-1,8,55.04,Hrs,H100,7600,0.007242105263157894
+AWS,on-demand,p5.48xlarge,EU (London),AWS Region,,8,71.552,Hrs,H100,7600,0.009414736842105264
+AWS,on-demand,p5.48xlarge,US East (N. Virginia),AWS Region,us-east-1,8,0.0,Hrs,H100,7600,0.0
+AWS,on-demand,p5.48xlarge,Asia Pacific (Mumbai),AWS Region,,8,66.048,Hrs,H100,7600,0.008690526315789473
+AWS,on-demand,p5.48xlarge,Canada (Central),AWS Region,,8,63.296,Hrs,H100,7600,0.008328421052631579
+AWS,on-demand,p5.48xlarge,EU (Stockholm),AWS Region,,8,58.8928,Hrs,H100,7600,0.007749052631578947
+AWS,on-demand,p5.48xlarge,US West (Oregon),AWS Region,us-west-2,8,55.04,Hrs,H100,7600,0.007242105263157894
+AWS,on-demand,p5.48xlarge,US West (Oregon),AWS Region,us-west-2,8,0.0,Hrs,H100,7600,0.0
+AWS,on-demand,p5.48xlarge,US West (N. California),AWS Region,,8,68.8,Hrs,H100,7600,0.009052631578947368
+AWS,on-demand,p5.48xlarge,US East (Ohio),AWS Region,us-east-2,8,55.04,Hrs,H100,7600,0.007242105263157894
+AWS,on-demand,p5.48xlarge,Asia Pacific (Tokyo),AWS Region,ap-northeast-1,8,68.8,Hrs,H100,7600,0.009052631578947368
+AWS,on-demand,p5.48xlarge,US East (Atlanta),AWS Local Zone,,8,55.04,Hrs,H100,7600,0.007242105263157894
+AWS,on-demand,p5.48xlarge,Asia Pacific (Jakarta),AWS Region,,8,75.9552,Hrs,H100,7600,0.009994105263157896
+AWS,on-demand,p5.48xlarge,Asia Pacific (Sydney),AWS Region,ap-southeast-2,8,71.552,Hrs,H100,7600,0.009414736842105264
+AWS,on-demand,p5.48xlarge,AWS GovCloud (US-West),AWS Region,,8,66.048,Hrs,H100,7600,0.008690526315789473
+AWS,on-demand,p5.48xlarge,US East (Ohio),AWS Region,us-east-2,8,0.0,Hrs,H100,7600,0.0
+AWS,on-demand,p5.48xlarge,South America (Sao Paulo),AWS Region,,8,92.4672,Hrs,H100,7600,0.012166736842105263
+AWS,on-demand,p4d.24xlarge,AWS GovCloud (US-West),AWS Region,,8,26.3511,Hrs,A100,2496,0.01055733173076923
+AWS,on-demand,p4d.24xlarge,EU (Stockholm),AWS Region,,8,23.71569,Hrs,A100,2496,0.009501478365384616
+AWS,on-demand,p4d.24xlarge,EU (London),AWS Region,,8,28.54493,Hrs,A100,2496,0.011436270032051282
+AWS,on-demand,p4d.24xlarge,Asia Pacific (Singapore),AWS Region,ap-southeast-1,8,26.34917,Hrs,A100,2496,0.010556558493589744
+AWS,on-demand,p4d.24xlarge,EU (London),AWS Region,,8,0.0,Hrs,A100,2496,0.0
+AWS,on-demand,p4d.24xlarge,Canada (Central),AWS Region,,8,25.25174,Hrs,A100,2496,0.010116883012820514
+AWS,on-demand,p4d.24xlarge,Asia Pacific (Tokyo),AWS Region,ap-northeast-1,8,30.09784,Hrs,A100,2496,0.012058429487179488
+AWS,on-demand,p4d.24xlarge,EU (Ireland),AWS Region,eu-west-1,8,23.71569,Hrs,A100,2496,0.009501478365384616
+AWS,on-demand,p4d.24xlarge,US West (Oregon),AWS Region,us-west-2,8,21.95764,Hrs,A100,2496,0.00879713141025641
+AWS,on-demand,p4d.24xlarge,EU (Frankfurt),AWS Region,eu-central-1,8,27.43298,Hrs,A100,2496,0.010990777243589744
+AWS,on-demand,p4d.24xlarge,Asia Pacific (Seoul),AWS Region,,8,30.41028,Hrs,A100,2496,0.01218360576923077
+AWS,on-demand,p4d.24xlarge,US East (N. Virginia),AWS Region,us-east-1,8,21.957642,Hrs,A100,2496,0.008797132211538461
+AWS,on-demand,p4d.24xlarge,US West (Oregon),AWS Region,us-west-2,8,0.0,Hrs,A100,2496,0.0
+AWS,on-demand,p4d.24xlarge,EU (Stockholm),AWS Region,,8,0.0,Hrs,A100,2496,0.0
+AWS,on-demand,p4d.24xlarge,Asia Pacific (Mumbai),AWS Region,,8,26.3444,Hrs,A100,2496,0.010554647435897437
+AWS,on-demand,p4d.24xlarge,Asia Pacific (Sydney),AWS Region,ap-southeast-2,8,28.54493,Hrs,A100,2496,0.011436270032051282
+AWS,on-demand,p4d.24xlarge,US East (Ohio),AWS Region,us-east-2,8,0.0,Hrs,A100,2496,0.0
+AWS,on-demand,p4d.24xlarge,US East (Ohio),AWS Region,us-east-2,8,21.95764,Hrs,A100,2496,0.00879713141025641
+AWS,on-demand,p4d.24xlarge,South America (Sao Paulo),AWS Region,,8,35.5569,Hrs,A100,2496,0.014245552884615384
+AWS,on-demand,p4d.24xlarge,US East (N. Virginia),AWS Region,us-east-1,8,0.0,Hrs,A100,2496,0.0
+AWS,on-demand,g5.xlarge,Asia Pacific (Seoul),AWS Region,,1,1.237,Hrs,A10G,72,0.017180555555555557
+AWS,on-demand,g5.xlarge,Asia Pacific (Sydney),AWS Region,ap-southeast-2,1,1.308,Hrs,A10G,72,0.018166666666666668
+AWS,on-demand,g5.xlarge,Asia Pacific (Jakarta),AWS Region,,1,1.408,Hrs,A10G,72,0.019555555555555555
+AWS,on-demand,g5.xlarge,Asia Pacific (Tokyo),AWS Region,ap-northeast-1,1,1.459,Hrs,A10G,72,0.02026388888888889
+AWS,on-demand,g5.xlarge,US East (N. Virginia),AWS Region,us-east-1,1,1.006,Hrs,A10G,72,0.013972222222222223
+AWS,on-demand,g5.xlarge,US East (Ohio),AWS Region,us-east-2,1,1.006,Hrs,A10G,72,0.013972222222222223
+AWS,on-demand,g5.xlarge,Middle East (UAE),AWS Region,,1,1.234,Hrs,A10G,72,0.017138888888888888
+AWS,on-demand,g5.xlarge,EU (Frankfurt),AWS Region,eu-central-1,1,1.258,Hrs,A10G,72,0.017472222222222222
+AWS,on-demand,g5.xlarge,EU (Stockholm),AWS Region,,1,1.067,Hrs,A10G,72,0.014819444444444444
+AWS,on-demand,g5.xlarge,Asia Pacific (Mumbai),AWS Region,,1,1.208,Hrs,A10G,72,0.016777777777777777
+AWS,on-demand,g5.xlarge,Canada (Central),AWS Region,,1,1.117,Hrs,A10G,72,0.01551388888888889
+AWS,on-demand,g5.xlarge,Israel (Tel Aviv),AWS Region,,1,1.17915,Hrs,A10G,72,0.016377083333333334
+AWS,on-demand,g5.xlarge,South America (Sao Paulo),AWS Region,,1,1.71,Hrs,A10G,72,0.02375
+AWS,on-demand,g5.xlarge,US West (Oregon),AWS Region,us-west-2,1,1.006,Hrs,A10G,72,0.013972222222222223
+AWS,on-demand,g5.xlarge,EU (Ireland),AWS Region,eu-west-1,1,1.123,Hrs,A10G,72,0.015597222222222222
+AWS,on-demand,g5.xlarge,EU (London),AWS Region,,1,1.277,Hrs,A10G,72,0.01773611111111111
+AWS,on-demand,g5.2xlarge,EU (London),AWS Region,,1,1.53849,Hrs,A10G,72,0.021367916666666667
+AWS,on-demand,g5.2xlarge,US East (Ohio),AWS Region,us-east-2,1,1.212,Hrs,A10G,72,0.016833333333333332
+AWS,on-demand,g5.2xlarge,EU (Frankfurt),AWS Region,eu-central-1,1,1.5156,Hrs,A10G,72,0.02105
+AWS,on-demand,g5.2xlarge,Asia Pacific (Jakarta),AWS Region,,1,1.69632,Hrs,A10G,72,0.02356
+AWS,on-demand,g5.2xlarge,Middle East (UAE),AWS Region,,1,1.48669,Hrs,A10G,72,0.020648472222222224
+AWS,on-demand,g5.2xlarge,US East (N. Virginia),AWS Region,us-east-1,1,1.212,Hrs,A10G,72,0.016833333333333332
+AWS,on-demand,g5.2xlarge,Asia Pacific (Sydney),AWS Region,ap-southeast-2,1,1.57584,Hrs,A10G,72,0.021886666666666665
+AWS,on-demand,g5.2xlarge,US West (Oregon),AWS Region,us-west-2,1,1.212,Hrs,A10G,72,0.016833333333333332
+AWS,on-demand,g5.2xlarge,EU (Stockholm),AWS Region,,1,1.28549,Hrs,A10G,72,0.017854027777777778
+AWS,on-demand,g5.2xlarge,EU (Ireland),AWS Region,eu-west-1,1,1.35296,Hrs,A10G,72,0.01879111111111111
+AWS,on-demand,g5.2xlarge,Asia Pacific (Seoul),AWS Region,,1,1.4903,Hrs,A10G,72,0.020698611111111112
+AWS,on-demand,g5.2xlarge,Israel (Tel Aviv),AWS Region,,1,1.42061,Hrs,A10G,72,0.019730694444444443
+AWS,on-demand,g5.2xlarge,Canada (Central),AWS Region,,1,1.34573,Hrs,A10G,72,0.018690694444444447
+AWS,on-demand,g5.2xlarge,Asia Pacific (Mumbai),AWS Region,,1,1.45536,Hrs,A10G,72,0.020213333333333333
+AWS,on-demand,g5.2xlarge,South America (Sao Paulo),AWS Region,,1,2.06016,Hrs,A10G,72,0.028613333333333338
+AWS,on-demand,g5.2xlarge,Asia Pacific (Tokyo),AWS Region,ap-northeast-1,1,1.75776,Hrs,A10G,72,0.024413333333333332
+AWS,on-demand,g5.12xlarge,Asia Pacific (Sydney),AWS Region,ap-southeast-2,4,7.37473,Hrs,A10G,288,0.02560670138888889
+AWS,on-demand,g5.12xlarge,Asia Pacific (Seoul),AWS Region,,4,6.97442,Hrs,A10G,288,0.024216736111111112
+AWS,on-demand,g5.12xlarge,South America (Sao Paulo),AWS Region,,4,9.64127,Hrs,A10G,288,0.033476631944444446
+AWS,on-demand,g5.12xlarge,Middle East (UAE),AWS Region,,4,6.9575,Hrs,A10G,288,0.02415798611111111
+AWS,on-demand,g5.12xlarge,Asia Pacific (Tokyo),AWS Region,ap-northeast-1,4,8.22609,Hrs,A10G,288,0.028562812499999996
+AWS,on-demand,g5.12xlarge,Israel (Tel Aviv),AWS Region,,4,6.64825,Hrs,A10G,288,0.02308420138888889
+AWS,on-demand,g5.12xlarge,EU (Stockholm),AWS Region,,4,6.01593,Hrs,A10G,288,0.020888645833333334
+AWS,on-demand,g5.12xlarge,Canada (Central),AWS Region,,4,6.29784,Hrs,A10G,288,0.021867499999999998
+AWS,on-demand,g5.12xlarge,US East (Ohio),AWS Region,us-east-2,4,5.672,Hrs,A10G,288,0.019694444444444445
+AWS,on-demand,g5.12xlarge,US West (Oregon),AWS Region,us-west-2,4,5.672,Hrs,A10G,288,0.019694444444444445
+AWS,on-demand,g5.12xlarge,EU (Frankfurt),AWS Region,eu-central-1,4,7.09282,Hrs,A10G,288,0.02462784722222222
+AWS,on-demand,g5.12xlarge,Asia Pacific (Mumbai),AWS Region,,4,6.81091,Hrs,A10G,288,0.023648993055555553
+AWS,on-demand,g5.12xlarge,EU (Ireland),AWS Region,eu-west-1,4,6.33167,Hrs,A10G,288,0.02198496527777778
+AWS,on-demand,g5.12xlarge,US East (N. Virginia),AWS Region,us-east-1,4,5.672,Hrs,A10G,288,0.019694444444444445
+AWS,on-demand,g5.12xlarge,EU (London),AWS Region,,4,7.19994,Hrs,A10G,288,0.024999791666666667
+AWS,on-demand,g5.12xlarge,Asia Pacific (Jakarta),AWS Region,,4,7.93854,Hrs,A10G,288,0.027564375
+AWS,on-demand,g5.48xlarge,US West (Oregon),AWS Region,us-west-2,8,16.288,Hrs,A10G,576,0.028277777777777777
+AWS,on-demand,g5.48xlarge,Asia Pacific (Jakarta),AWS Region,,8,22.79672,Hrs,A10G,576,0.03957763888888889
+AWS,on-demand,g5.48xlarge,Asia Pacific (Seoul),AWS Region,,8,20.02809,Hrs,A10G,576,0.03477098958333333
+AWS,on-demand,g5.48xlarge,EU (Stockholm),AWS Region,,8,17.27564,Hrs,A10G,576,0.029992430555555553
+AWS,on-demand,g5.48xlarge,EU (London),AWS Region,,8,20.67572,Hrs,A10G,576,0.03589534722222222
+AWS,on-demand,g5.48xlarge,South America (Sao Paulo),AWS Region,,8,27.68636,Hrs,A10G,576,0.04806659722222222
+AWS,on-demand,g5.48xlarge,Canada (Central),AWS Region,,8,18.08518,Hrs,A10G,576,0.03139788194444445
+AWS,on-demand,g5.48xlarge,EU (Ireland),AWS Region,eu-west-1,8,18.18233,Hrs,A10G,576,0.03156654513888889
+AWS,on-demand,g5.48xlarge,Israel (Tel Aviv),AWS Region,,8,19.09145,Hrs,A10G,576,0.03314487847222222
+AWS,on-demand,g5.48xlarge,US East (Ohio),AWS Region,us-east-2,8,16.288,Hrs,A10G,576,0.028277777777777777
+AWS,on-demand,g5.48xlarge,EU (Frankfurt),AWS Region,eu-central-1,8,20.3681,Hrs,A10G,576,0.03536128472222222
+AWS,on-demand,g5.48xlarge,Asia Pacific (Tokyo),AWS Region,ap-northeast-1,8,23.62246,Hrs,A10G,576,0.04101121527777778
+AWS,on-demand,g5.48xlarge,US East (N. Virginia),AWS Region,us-east-1,8,16.288,Hrs,A10G,576,0.028277777777777777
+AWS,on-demand,g5.48xlarge,Asia Pacific (Mumbai),AWS Region,,8,19.55855,Hrs,A10G,576,0.03395581597222222
+AWS,on-demand,g5.48xlarge,Middle East (UAE),AWS Region,,8,19.97951,Hrs,A10G,576,0.03468664930555556
+AWS,on-demand,g5.48xlarge,Asia Pacific (Sydney),AWS Region,ap-southeast-2,8,21.17764,Hrs,A10G,576,0.036766736111111115
+AWS,on-demand,g4dn.xlarge,EU (Frankfurt),AWS Region,eu-central-1,1,0.658,Hrs,T4,8,0.08225
+AWS,on-demand,g4dn.xlarge,Asia Pacific (Sydney),AWS Region,ap-southeast-2,1,0.684,Hrs,T4,8,0.0855
+AWS,on-demand,g4dn.xlarge,AWS GovCloud (US-West),AWS Region,,1,0.663,Hrs,T4,8,0.082875
+AWS,on-demand,g4dn.xlarge,US East (N. Virginia),AWS Region,us-east-1,1,0.526,Hrs,T4,8,0.06575
+AWS,on-demand,g4dn.xlarge,EU (Stockholm),AWS Region,,1,0.558,Hrs,T4,8,0.06975
+AWS,on-demand,g4dn.xlarge,US East (Ohio),AWS Region,us-east-2,1,0.526,Hrs,T4,8,0.06575
+AWS,on-demand,g4dn.xlarge,South America (Sao Paulo),AWS Region,,1,0.894,Hrs,T4,8,0.11175
+AWS,on-demand,g4dn.xlarge,Asia Pacific (Tokyo),AWS Region,ap-northeast-1,1,0.71,Hrs,T4,8,0.08875
+AWS,on-demand,g4dn.xlarge,US West (Los Angeles),AWS Region,,1,0.631,Hrs,T4,8,0.078875
+AWS,on-demand,g4dn.xlarge,EU (London),AWS Region,,1,0.615,Hrs,T4,8,0.076875
+AWS,on-demand,g4dn.xlarge,US West (Oregon),AWS Region,us-west-2,1,0.526,Hrs,T4,8,0.06575
+AWS,on-demand,g4dn.xlarge,Asia Pacific (Hong Kong),AWS Region,,1,0.81,Hrs,T4,8,0.10125
+AWS,on-demand,g4dn.xlarge,Asia Pacific (Mumbai),AWS Region,,1,0.579,Hrs,T4,8,0.072375
+AWS,on-demand,g4dn.xlarge,EU (Paris),AWS Region,,1,0.615,Hrs,T4,8,0.076875
+AWS,on-demand,g4dn.xlarge,Asia Pacific (Osaka),AWS Region,,1,0.71,Hrs,T4,8,0.08875
+AWS,on-demand,g4dn.xlarge,US West (N. California),AWS Region,,1,0.631,Hrs,T4,8,0.078875
+AWS,on-demand,g4dn.xlarge,EU (Milan),AWS Region,,1,0.616,Hrs,T4,8,0.077
+AWS,on-demand,g4dn.xlarge,Asia Pacific (Seoul),AWS Region,,1,0.647,Hrs,T4,8,0.080875
+AWS,on-demand,g4dn.xlarge,EU (Ireland),AWS Region,eu-west-1,1,0.587,Hrs,T4,8,0.073375
+AWS,on-demand,g4dn.xlarge,Middle East (Bahrain),AWS Region,,1,0.645,Hrs,T4,8,0.080625
+AWS,on-demand,g4dn.xlarge,Asia Pacific (Singapore),AWS Region,ap-southeast-1,1,0.736,Hrs,T4,8,0.092
+AWS,on-demand,g4dn.xlarge,Canada (Central),AWS Region,,1,0.584,Hrs,T4,8,0.073
+AWS,on-demand,g4dn.xlarge,AWS GovCloud (US-East),AWS Region,,1,0.663,Hrs,T4,8,0.082875
+AWS,on-demand,g4dn.xlarge,Africa (Cape Town),AWS Region,,1,0.698,Hrs,T4,8,0.08725
+AWS,on-demand,g4dn.12xlarge,AWS GovCloud (US-East),AWS Region,,4,4.931,Hrs,T4,32,0.15409375
+AWS,on-demand,g4dn.12xlarge,South America (Sao Paulo),AWS Region,,4,6.649,Hrs,T4,32,0.20778125
+AWS,on-demand,g4dn.12xlarge,EU (Ireland),AWS Region,eu-west-1,4,4.362,Hrs,T4,32,0.1363125
+AWS,on-demand,g4dn.12xlarge,Asia Pacific (Mumbai),AWS Region,,4,4.306,Hrs,T4,32,0.1345625
+AWS,on-demand,g4dn.12xlarge,Canada (Central),AWS Region,,4,4.343,Hrs,T4,32,0.13571875
+AWS,on-demand,g4dn.12xlarge,Asia Pacific (Seoul),AWS Region,,4,4.812,Hrs,T4,32,0.150375
+AWS,on-demand,g4dn.12xlarge,US West (N. California),AWS Region,,4,4.694,Hrs,T4,32,0.1466875
+AWS,on-demand,g4dn.12xlarge,US West (Los Angeles),AWS Region,,4,4.694,Hrs,T4,32,0.1466875
+AWS,on-demand,g4dn.12xlarge,Morocco (Casablanca),AWS Wavelength Zone,,4,5.234,Hrs,T4,32,0.1635625
+AWS,on-demand,g4dn.12xlarge,Asia Pacific (Hong Kong),AWS Region,,4,6.024,Hrs,T4,32,0.18825
+AWS,on-demand,g4dn.12xlarge,Asia Pacific (Singapore),AWS Region,ap-southeast-1,4,5.474,Hrs,T4,32,0.1710625
+AWS,on-demand,g4dn.12xlarge,EU (Paris),AWS Region,,4,4.574,Hrs,T4,32,0.1429375
+AWS,on-demand,g4dn.12xlarge,Senegal (Dakar),AWS Wavelength Zone,,4,5.234,Hrs,T4,32,0.1635625
+AWS,on-demand,g4dn.12xlarge,Middle East (Bahrain),AWS Region,,4,4.798,Hrs,T4,32,0.1499375
+AWS,on-demand,g4dn.12xlarge,Asia Pacific (Tokyo),AWS Region,ap-northeast-1,4,5.281,Hrs,T4,32,0.16503125
+AWS,on-demand,g4dn.12xlarge,US East (N. Virginia),AWS Region,us-east-1,4,3.912,Hrs,T4,32,0.12225
+AWS,on-demand,g4dn.12xlarge,US West (Oregon),AWS Region,us-west-2,4,3.912,Hrs,T4,32,0.12225
+AWS,on-demand,g4dn.12xlarge,EU (Stockholm),AWS Region,,4,4.15,Hrs,T4,32,0.1296875
+AWS,on-demand,g4dn.12xlarge,EU (London),AWS Region,,4,4.577,Hrs,T4,32,0.14303125
+AWS,on-demand,g4dn.12xlarge,Asia Pacific (Sydney),AWS Region,ap-southeast-2,4,5.087,Hrs,T4,32,0.15896875
+AWS,on-demand,g4dn.12xlarge,Asia Pacific (Osaka),AWS Region,,4,5.281,Hrs,T4,32,0.16503125
+AWS,on-demand,g4dn.12xlarge,AWS GovCloud (US-West),AWS Region,,4,4.931,Hrs,T4,32,0.15409375
+AWS,on-demand,g4dn.12xlarge,US East (Ohio),AWS Region,us-east-2,4,3.912,Hrs,T4,32,0.12225
+AWS,on-demand,g4dn.12xlarge,EU (Milan),AWS Region,,4,4.58,Hrs,T4,32,0.143125
+AWS,on-demand,g4dn.12xlarge,EU (Frankfurt),AWS Region,eu-central-1,4,4.89,Hrs,T4,32,0.1528125
+AWS,on-demand,g4dn.12xlarge,Africa (Cape Town),AWS Region,,4,5.19,Hrs,T4,32,0.1621875

@@ -1,0 +1,37 @@
+# /c:/Users/Bitri/Downloads/omega-pricing-engine/src/collectors/credencial-check/check_boto_creds.py
+import boto3
+import botocore
+import json
+from dotenv import load_dotenv
+load_dotenv()
+
+def summarize_creds(creds):
+    if creds is None:
+        return "No credentials resolved."
+    frozen = creds.get_frozen_credentials()
+    return json.dumps(
+        {
+            "access_key_prefix": frozen.access_key[:4] + "..." if frozen.access_key else None,
+            "token_present": bool(frozen.token),
+            "method": creds.method,
+            "expiry_time": getattr(creds, "expiry_time", None).isoformat()
+            if getattr(creds, "expiry_time", None)
+            else None,
+        },
+        indent=2,
+    )
+
+session = boto3.Session()
+creds = session.get_credentials()
+
+print("Session profile:", session.profile_name or "default")
+print("Resolved credentials:")
+print(summarize_creds(creds))
+
+sts = session.client("sts")
+try:
+    caller = sts.get_caller_identity()
+    print("\nSTS caller identity:")
+    print(json.dumps(caller, indent=2))
+except botocore.exceptions.ClientError as e:
+    print("\nSTS call failed:", e)
